@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shivam Dwivedi
-- 👀 I’m interested in NLP, Python and Photography
-- 🌱 I’m currently learning speech processing
-- 💞️ I’m looking to collaborate in Machine Learning projects
+- 👋 Hi, I’m Shivam Dwivedi.
+- 👀 I’m interested in NLP, Python and Photography.
+- 🌱 I’m currently learning speech processing.
+- 💞️ I’m looking to collaborate in Machine Learning projects.
 - 📫 You may contact me on admin@shivamdwivedi.com
